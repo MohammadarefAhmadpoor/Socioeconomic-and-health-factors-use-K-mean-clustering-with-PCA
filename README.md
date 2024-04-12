@@ -1,4 +1,5 @@
-    
+# Socioeconomic and health factors use K-mean clustering with PCA
+
 The notebook contains information about a project related to analyzing socioeconomic and health factors to categorize countries by their level of development. The goal of the project is to strategically allocate $10 million in aid to countries most in need.
 
 1. Description: Provides an overview of the project's focus on analyzing socioeconomic and health factors to categorize countries by their level of development.
